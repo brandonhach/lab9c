@@ -1,0 +1,5 @@
+Expected Results:
+We expect the results to show that the linear search algorithm has the worst performance compared to the binary search and hashmap search algorithms. Binary search is expected to perform better than linear search, especially on large datasets, but its performance may degrade if the input data is not sorted. Hashmap search is expected to have the best performance among the three algorithms, as it has an average time complexity of O(1) for searching and an average space complexity of O(n).
+
+Conclusion:
+The benchmarking results will help determine which algorithm is best suited for a particular application based on the size and nature of the data. The results will also highlight the trade-offs between time complexity and space complexity for the three search algorithms.
